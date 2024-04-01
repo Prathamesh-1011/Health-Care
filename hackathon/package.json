@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "create-react-app": "^1.2.1",
+    "tar": "^6.2.1"
+  },
+  "name": "hackathon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
